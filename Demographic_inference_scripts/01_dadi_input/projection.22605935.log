@@ -1,0 +1,704 @@
+sample sizes [2 2]
+Segregating sites 11473.357243949655
+sample sizes [2 4]
+Segregating sites 14326.72391790839
+sample sizes [2 6]
+Segregating sites 16495.52923794079
+sample sizes [2 8]
+Segregating sites 18285.788487666952
+sample sizes [ 2 10]
+Segregating sites 19828.497947116215
+sample sizes [ 2 12]
+Segregating sites 21193.63246827617
+sample sizes [ 2 14]
+Segregating sites 22423.679999352957
+sample sizes [ 2 16]
+Segregating sites 23546.702557186814
+sample sizes [ 2 18]
+Segregating sites 24582.364967005244
+sample sizes [ 2 20]
+Segregating sites 25540.604930576188
+sample sizes [ 2 22]
+Segregating sites 26408.45226700475
+sample sizes [ 2 24]
+Segregating sites 27038.802478932983
+sample sizes [ 2 26]
+Segregating sites 27031.435292015096
+sample sizes [ 2 28]
+Segregating sites 25164.680202028205
+sample sizes [ 2 30]
+Segregating sites 19923.49098249287
+sample sizes [ 2 32]
+Segregating sites 10713.386120549003
+sample sizes [4 2]
+Segregating sites 15116.94703376429
+sample sizes [4 4]
+Segregating sites 17262.608381071528
+sample sizes [4 6]
+Segregating sites 19025.648094277698
+sample sizes [4 8]
+Segregating sites 20541.99073632263
+sample sizes [ 4 10]
+Segregating sites 21882.723886893196
+sample sizes [ 4 12]
+Segregating sites 23090.495302227806
+sample sizes [ 4 14]
+Segregating sites 24193.240727462686
+sample sizes [ 4 16]
+Segregating sites 25210.422125799836
+sample sizes [ 4 18]
+Segregating sites 26156.230600887095
+sample sizes [ 4 20]
+Segregating sites 27036.481457236398
+sample sizes [ 4 22]
+Segregating sites 27834.989069979998
+sample sizes [ 4 24]
+Segregating sites 28397.327169123353
+sample sizes [ 4 26]
+Segregating sites 28304.355805986437
+sample sizes [ 4 28]
+Segregating sites 26285.695162824544
+sample sizes [ 4 30]
+Segregating sites 20763.947849363925
+sample sizes [ 4 32]
+Segregating sites 11145.757765086826
+sample sizes [6 2]
+Segregating sites 17795.670760539706
+sample sizes [6 4]
+Segregating sites 19556.54372086058
+sample sizes [6 6]
+Segregating sites 21065.18501689186
+sample sizes [6 8]
+Segregating sites 22396.35391243982
+sample sizes [ 6 10]
+Segregating sites 23594.104815181658
+sample sizes [ 6 12]
+Segregating sites 24686.966009188603
+sample sizes [ 6 14]
+Segregating sites 25694.650934674268
+sample sizes [ 6 16]
+Segregating sites 26631.449259055982
+sample sizes [ 6 18]
+Segregating sites 27508.105845073143
+sample sizes [ 6 20]
+Segregating sites 28327.610508188987
+sample sizes [ 6 22]
+Segregating sites 29071.47250019682
+sample sizes [ 6 24]
+Segregating sites 29579.43533866685
+sample sizes [ 6 26]
+Segregating sites 29416.602122820525
+sample sizes [ 6 28]
+Segregating sites 27269.589300447977
+sample sizes [ 6 30]
+Segregating sites 21507.47989751034
+sample sizes [ 6 32]
+Segregating sites 11532.320013630098
+sample sizes [8 2]
+Segregating sites 19931.29605599409
+sample sizes [8 4]
+Segregating sites 21446.534755736087
+sample sizes [8 6]
+Segregating sites 22779.190947060542
+sample sizes [8 8]
+Segregating sites 23975.899504945373
+sample sizes [ 8 10]
+Segregating sites 25066.405626909138
+sample sizes [ 8 12]
+Segregating sites 26071.05024941852
+sample sizes [ 8 14]
+Segregating sites 27004.466449990818
+sample sizes [ 8 16]
+Segregating sites 27877.59573192426
+sample sizes [ 8 18]
+Segregating sites 28698.871156596957
+sample sizes [ 8 20]
+Segregating sites 29469.216990808447
+sample sizes [ 8 22]
+Segregating sites 30168.41064554865
+sample sizes [ 8 24]
+Segregating sites 30631.304418954423
+sample sizes [ 8 26]
+Segregating sites 30409.61396580235
+sample sizes [ 8 28]
+Segregating sites 28151.206376743303
+sample sizes [ 8 30]
+Segregating sites 22178.3321765701
+sample sizes [ 8 32]
+Segregating sites 11884.155227593048
+sample sizes [10  2]
+Segregating sites 21717.346780759643
+sample sizes [10  4]
+Segregating sites 23060.337351613984
+sample sizes [10  6]
+Segregating sites 24263.008483340724
+sample sizes [10  8]
+Segregating sites 25356.934845050164
+sample sizes [10 10]
+Segregating sites 26363.433291807953
+sample sizes [10 12]
+Segregating sites 27297.697173568748
+sample sizes [10 14]
+Segregating sites 28171.008897869535
+sample sizes [10 16]
+Segregating sites 28992.019047330075
+sample sizes [10 18]
+Segregating sites 29767.53197833108
+sample sizes [10 20]
+Segregating sites 30496.883768287847
+sample sizes [10 22]
+Segregating sites 31158.503887651364
+sample sizes [10 24]
+Segregating sites 31582.981071868995
+sample sizes [10 26]
+Segregating sites 31310.465029246177
+sample sizes [10 28]
+Segregating sites 28953.448944799133
+sample sizes [10 30]
+Segregating sites 22792.464968573975
+sample sizes [10 32]
+Segregating sites 12208.636124084727
+sample sizes [12  2]
+Segregating sites 23259.05520893654
+sample sizes [12  4]
+Segregating sites 24473.55926395092
+sample sizes [12  6]
+Segregating sites 25575.635192758004
+sample sizes [12  8]
+Segregating sites 26587.928017825165
+sample sizes [12 10]
+Segregating sites 27526.403357581392
+sample sizes [12 12]
+Segregating sites 28402.82060314231
+sample sizes [12 14]
+Segregating sites 29226.14026704248
+sample sizes [12 16]
+Segregating sites 30003.37647875774
+sample sizes [12 18]
+Segregating sites 30740.140981398396
+sample sizes [12 20]
+Segregating sites 31434.499607906037
+sample sizes [12 22]
+Segregating sites 32063.80304828182
+sample sizes [12 24]
+Segregating sites 32454.824715693434
+sample sizes [12 26]
+Segregating sites 32137.572542150763
+sample sizes [12 28]
+Segregating sites 29691.961082717226
+sample sizes [12 30]
+Segregating sites 23360.78872469618
+sample sizes [12 32]
+Segregating sites 12510.840523528328
+sample sizes [14  2]
+Segregating sites 24619.813088717317
+sample sizes [14  4]
+Segregating sites 25734.189945544964
+sample sizes [14  6]
+Segregating sites 26755.664941881463
+sample sizes [14  8]
+Segregating sites 27701.19561795614
+sample sizes [14 10]
+Segregating sites 28583.157519336703
+sample sizes [14 12]
+Segregating sites 29410.91342427815
+sample sizes [14 14]
+Segregating sites 30191.751414953524
+sample sizes [14 16]
+Segregating sites 30931.47604246016
+sample sizes [14 18]
+Segregating sites 31634.798410431238
+sample sizes [14 20]
+Segregating sites 32298.736755646314
+sample sizes [14 22]
+Segregating sites 32899.757889745975
+sample sizes [14 24]
+Segregating sites 33261.16164280036
+sample sizes [14 26]
+Segregating sites 32903.942251594424
+sample sizes [14 28]
+Segregating sites 30377.818533824855
+sample sizes [14 30]
+Segregating sites 23891.036862800196
+sample sizes [14 32]
+Segregating sites 12794.392366780474
+sample sizes [16  2]
+Segregating sites 25840.63845428858
+sample sizes [16  4]
+Segregating sites 26874.407995253023
+sample sizes [16  6]
+Segregating sites 27829.558067978207
+sample sizes [16  8]
+Segregating sites 28719.2272775835
+sample sizes [16 10]
+Segregating sites 29553.27871893377
+sample sizes [16 12]
+Segregating sites 30339.34194312348
+sample sizes [16 14]
+Segregating sites 31083.462475549415
+sample sizes [16 16]
+Segregating sites 31790.525798047758
+sample sizes [16 18]
+Segregating sites 32464.545702192514
+sample sizes [16 20]
+Segregating sites 33101.65564357723
+sample sizes [16 22]
+Segregating sites 33677.582574333486
+sample sizes [16 24]
+Segregating sites 34012.42862676514
+sample sizes [16 26]
+Segregating sites 33619.079114244516
+sample sizes [16 28]
+Segregating sites 31019.129911086347
+sample sizes [16 30]
+Segregating sites 24388.88261217342
+sample sizes [16 32]
+Segregating sites 13061.970182329786
+sample sizes [18  2]
+Segregating sites 26938.895213456344
+sample sizes [18  4]
+Segregating sites 27905.927784385058
+sample sizes [18  6]
+Segregating sites 28805.140015385834
+sample sizes [18  8]
+Segregating sites 29647.000469331215
+sample sizes [18 10]
+Segregating sites 30439.554577167906
+sample sizes [18 12]
+Segregating sites 31189.14228858452
+sample sizes [18 14]
+Segregating sites 31900.86271300318
+sample sizes [18 16]
+Segregating sites 32578.88746776152
+sample sizes [18 18]
+Segregating sites 33226.679780006474
+sample sizes [18 20]
+Segregating sites 33839.61237261785
+sample sizes [18 22]
+Segregating sites 34392.780185737254
+sample sizes [18 24]
+Segregating sites 34703.32101587376
+sample sizes [18 26]
+Segregating sites 34276.74724316815
+sample sizes [18 28]
+Segregating sites 31608.361941579125
+sample sizes [18 30]
+Segregating sites 24847.709895772205
+sample sizes [18 32]
+Segregating sites 13311.620406238975
+sample sizes [20  2]
+Segregating sites 27924.11271817133
+sample sizes [20  4]
+Segregating sites 28833.57535293544
+sample sizes [20  6]
+Segregating sites 29683.724178614535
+sample sizes [20  8]
+Segregating sites 30483.08889617375
+sample sizes [20 10]
+Segregating sites 31238.354332983254
+sample sizes [20 12]
+Segregating sites 31954.86960855832
+sample sizes [20 14]
+Segregating sites 32636.99019314351
+sample sizes [20 16]
+Segregating sites 33288.31592825571
+sample sizes [20 18]
+Segregating sites 33911.86178293463
+sample sizes [20 20]
+Segregating sites 34502.33141534052
+sample sizes [20 22]
+Segregating sites 35034.26308048388
+sample sizes [20 24]
+Segregating sites 35322.029250280044
+sample sizes [20 26]
+Segregating sites 34864.37264771847
+sample sizes [20 28]
+Segregating sites 32133.933459644562
+sample sizes [20 30]
+Segregating sites 25257.5939445814
+sample sizes [20 32]
+Segregating sites 13539.988696530605
+sample sizes [22  2]
+Segregating sites 28759.88191300633
+sample sizes [22  4]
+Segregating sites 29618.382058516625
+sample sizes [22  6]
+Segregating sites 30424.467766470578
+sample sizes [22  8]
+Segregating sites 31185.217496222747
+sample sizes [22 10]
+Segregating sites 31906.26994874258
+sample sizes [22 12]
+Segregating sites 32592.19407108421
+sample sizes [22 14]
+Segregating sites 33246.74738423014
+sample sizes [22 16]
+Segregating sites 33873.06138995556
+sample sizes [22 18]
+Segregating sites 34473.77778002775
+sample sizes [22 20]
+Segregating sites 35043.002640618986
+sample sizes [22 22]
+Segregating sites 35554.769796927954
+sample sizes [22 24]
+Segregating sites 35820.860943270935
+sample sizes [22 26]
+Segregating sites 35333.75068743465
+sample sizes [22 28]
+Segregating sites 32555.25107066066
+sample sizes [22 30]
+Segregating sites 25592.18525447989
+sample sizes [22 32]
+Segregating sites 13737.777491634217
+sample sizes [24  2]
+Segregating sites 29390.612031921926
+sample sizes [24  4]
+Segregating sites 30199.658775939737
+sample sizes [24  6]
+Segregating sites 30962.603070114026
+sample sizes [24  8]
+Segregating sites 31685.259828231214
+sample sizes [24 10]
+Segregating sites 32372.32827686936
+sample sizes [24 12]
+Segregating sites 33027.662240626385
+sample sizes [24 14]
+Segregating sites 33654.46392891595
+sample sizes [24 16]
+Segregating sites 34255.426111392546
+sample sizes [24 18]
+Segregating sites 34832.838411753306
+sample sizes [24 20]
+Segregating sites 35380.24077942886
+sample sizes [24 22]
+Segregating sites 35871.177432694036
+sample sizes [24 24]
+Segregating sites 36115.97972432473
+sample sizes [24 26]
+Segregating sites 35603.43957275032
+sample sizes [24 28]
+Segregating sites 32787.00429362377
+sample sizes [24 30]
+Segregating sites 25789.40775950661
+sample sizes [24 32]
+Segregating sites 13879.144135629498
+sample sizes [26  2]
+Segregating sites 29673.374490629703
+sample sizes [26  4]
+Segregating sites 30432.558851615402
+sample sizes [26  6]
+Segregating sites 31151.103974475547
+sample sizes [26  8]
+Segregating sites 31833.863407284247
+sample sizes [26 10]
+Segregating sites 32484.79404497365
+sample sizes [26 12]
+Segregating sites 33107.163781165305
+sample sizes [26 14]
+Segregating sites 33703.704233895885
+sample sizes [26 16]
+Segregating sites 34276.724995400305
+sample sizes [26 18]
+Segregating sites 34828.20022682874
+sample sizes [26 20]
+Segregating sites 35351.144604644636
+sample sizes [26 22]
+Segregating sites 35818.62856295533
+sample sizes [26 24]
+Segregating sites 36042.7655953532
+sample sizes [26 26]
+Segregating sites 35517.59708060444
+sample sizes [26 28]
+Segregating sites 32714.5180140784
+sample sizes [26 30]
+Segregating sites 25776.331918960987
+sample sizes [26 32]
+Segregating sites 13959.652284408612
+sample sizes [28  2]
+Segregating sites 29387.189223682028
+sample sizes [28  4]
+Segregating sites 30089.85511375749
+sample sizes [28  6]
+Segregating sites 30757.120303779124
+sample sizes [28  8]
+Segregating sites 31393.007085367713
+sample sizes [28 10]
+Segregating sites 32000.81337505893
+sample sizes [28 12]
+Segregating sites 32583.276736506836
+sample sizes [28 14]
+Segregating sites 33142.697104666644
+sample sizes [28 16]
+Segregating sites 33681.02958200076
+sample sizes [28 18]
+Segregating sites 34199.95513137885
+sample sizes [28 20]
+Segregating sites 34691.997477583966
+sample sizes [28 22]
+Segregating sites 35130.838540547076
+sample sizes [28 24]
+Segregating sites 35332.50295522315
+sample sizes [28 26]
+Segregating sites 34805.61892153929
+sample sizes [28 28]
+Segregating sites 32099.5505681789
+sample sizes [28 30]
+Segregating sites 25421.560204931924
+sample sizes [28 32]
+Segregating sites 13885.947286577628
+sample sizes [30  2]
+Segregating sites 28391.438835543304
+sample sizes [30  4]
+Segregating sites 29026.91837614636
+sample sizes [30  6]
+Segregating sites 29632.354866076796
+sample sizes [30  8]
+Segregating sites 30210.955102868134
+sample sizes [30 10]
+Segregating sites 30765.373843956397
+sample sizes [30 12]
+Segregating sites 31297.83413687078
+sample sizes [30 14]
+Segregating sites 31810.218897478775
+sample sizes [30 16]
+Segregating sites 32304.141084624676
+sample sizes [30 18]
+Segregating sites 32780.997719607134
+sample sizes [30 20]
+Segregating sites 33233.83579120322
+sample sizes [30 22]
+Segregating sites 33639.04014345601
+sample sizes [30 24]
+Segregating sites 33825.07326922398
+sample sizes [30 26]
+Segregating sites 33327.167226416095
+sample sizes [30 28]
+Segregating sites 30825.263187554658
+sample sizes [30 30]
+Segregating sites 24679.601006291494
+sample sizes [30 32]
+Segregating sites 13721.854525056982
+sample sizes [32  2]
+Segregating sites 26432.860140409553
+sample sizes [32  4]
+Segregating sites 26991.27311367702
+sample sizes [32  6]
+Segregating sites 27524.952584795577
+sample sizes [32  8]
+Segregating sites 28036.41163234732
+sample sizes [32 10]
+Segregating sites 28527.74428626382
+sample sizes [32 12]
+Segregating sites 29000.71406979413
+sample sizes [32 14]
+Segregating sites 29456.82268577384
+sample sizes [32 16]
+Segregating sites 29897.36340570266
+sample sizes [32 18]
+Segregating sites 30323.46262193219
+sample sizes [32 20]
+Segregating sites 30727.703533591226
+sample sizes [32 22]
+Segregating sites 31091.265732983706
+sample sizes [32 24]
+Segregating sites 31257.385697498128
+sample sizes [32 26]
+Segregating sites 30853.264021915616
+sample sizes [32 28]
+Segregating sites 28728.313409106126
+sample sizes [32 30]
+Segregating sites 23347.420180039247
+sample sizes [32 32]
+Segregating sites 13317.673534986645
+sample sizes [34  2]
+Segregating sites 23385.031725513163
+sample sizes [34  4]
+Segregating sites 23855.643404423587
+sample sizes [34  6]
+Segregating sites 24307.22145884038
+sample sizes [34  8]
+Segregating sites 24741.50063599244
+sample sizes [34 10]
+Segregating sites 25159.950540058908
+sample sizes [34 12]
+Segregating sites 25563.830684877335
+sample sizes [34 14]
+Segregating sites 25954.233001960663
+sample sizes [34 16]
+Segregating sites 26332.11440040723
+sample sizes [34 18]
+Segregating sites 26698.321590800686
+sample sizes [34 20]
+Segregating sites 27044.9741155554
+sample sizes [34 22]
+Segregating sites 27359.230261196753
+sample sizes [34 24]
+Segregating sites 27530.534288612616
+sample sizes [34 26]
+Segregating sites 27270.47760125325
+sample sizes [34 28]
+Segregating sites 25698.413379440597
+sample sizes [34 30]
+Segregating sites 21404.611400650097
+sample sizes [34 32]
+Segregating sites 12622.214400426572
+sample sizes [36  2]
+Segregating sites 19504.109278355143
+sample sizes [36  4]
+Segregating sites 19887.60536742014
+sample sizes [36  6]
+Segregating sites 20256.483080290905
+sample sizes [36  8]
+Segregating sites 20612.009642510806
+sample sizes [36 10]
+Segregating sites 20955.260030385816
+sample sizes [36 12]
+Segregating sites 21287.159364870535
+sample sizes [36 14]
+Segregating sites 21608.514885614728
+sample sizes [36 16]
+Segregating sites 21920.03970555061
+sample sizes [36 18]
+Segregating sites 22222.37024340134
+sample sizes [36 20]
+Segregating sites 22510.280360389323
+sample sizes [36 22]
+Segregating sites 22777.00839988419
+sample sizes [36 24]
+Segregating sites 22955.718028642663
+sample sizes [36 26]
+Segregating sites 22843.859089178903
+sample sizes [36 28]
+Segregating sites 21816.068172746243
+sample sizes [36 30]
+Segregating sites 18790.830227058435
+sample sizes [36 32]
+Segregating sites 11650.314929598924
+sample sizes [38  2]
+Segregating sites 15118.208749502752
+sample sizes [38  4]
+Segregating sites 15406.140908462366
+sample sizes [38  6]
+Segregating sites 15684.101737410416
+sample sizes [38  8]
+Segregating sites 15952.883925377067
+sample sizes [38 10]
+Segregating sites 16213.17575954735
+sample sizes [38 12]
+Segregating sites 16465.579780563734
+sample sizes [38 14]
+Segregating sites 16710.627777648337
+sample sizes [38 16]
+Segregating sites 16948.792737193708
+sample sizes [38 18]
+Segregating sites 17180.498289417195
+sample sizes [38 20]
+Segregating sites 17401.226131556807
+sample sizes [38 22]
+Segregating sites 17609.180669968093
+sample sizes [38 24]
+Segregating sites 17769.340523697494
+sample sizes [38 26]
+Segregating sites 17765.252492298852
+sample sizes [38 28]
+Segregating sites 17235.694356584212
+sample sizes [38 30]
+Segregating sites 15386.723832439513
+sample sizes [38 32]
+Segregating sites 10176.05720283695
+sample sizes [40  2]
+Segregating sites 10304.0681821614
+sample sizes [40  4]
+Segregating sites 10497.206584860098
+sample sizes [40  6]
+Segregating sites 10683.943018648955
+sample sizes [40  8]
+Segregating sites 10864.779935185796
+sample sizes [40 10]
+Segregating sites 11040.155509331957
+sample sizes [40 12]
+Segregating sites 11210.454304410958
+sample sizes [40 14]
+Segregating sites 11376.01598653143
+sample sizes [40 16]
+Segregating sites 11537.1423708058
+sample sizes [40 18]
+Segregating sites 11694.103056976835
+sample sizes [40 20]
+Segregating sites 11843.139886834633
+sample sizes [40 22]
+Segregating sites 11986.47189431338
+sample sizes [40 24]
+Segregating sites 12109.248860057485
+sample sizes [40 26]
+Segregating sites 12162.418723711637
+sample sizes [40 28]
+Segregating sites 11987.588018822127
+sample sizes [40 30]
+Segregating sites 11089.126779007347
+sample sizes [40 32]
+Segregating sites 7822.93584823198
+sample sizes [42  2]
+Segregating sites 5469.214581299725
+sample sizes [42  4]
+Segregating sites 5568.868697941251
+sample sizes [42  6]
+Segregating sites 5665.337887746784
+sample sizes [42  8]
+Segregating sites 5758.880501079271
+sample sizes [42 10]
+Segregating sites 5849.722844197015
+sample sizes [42 12]
+Segregating sites 5938.063423005014
+sample sizes [42 14]
+Segregating sites 6024.076663498275
+sample sizes [42 16]
+Segregating sites 6107.916146925699
+sample sizes [42 18]
+Segregating sites 6189.717397704057
+sample sizes [42 20]
+Segregating sites 6269.600262110629
+sample sizes [42 22]
+Segregating sites 6343.670915783486
+sample sizes [42 24]
+Segregating sites 6417.023538058512
+sample sizes [42 26]
+Segregating sites 6470.6583578389345
+sample sizes [42 28]
+Segregating sites 6459.139011418267
+sample sizes [42 30]
+Segregating sites 6139.707983103736
+sample sizes [42 32]
+Segregating sites 4688.268498942916
+sample sizes [44  2]
+Segregating sites 1725.3224073100741
+sample sizes [44  4]
+Segregating sites 1755.708762007994
+sample sizes [44  6]
+Segregating sites 1785.2188687301505
+sample sizes [44  8]
+Segregating sites 1813.9082416314836
+sample sizes [44 10]
+Segregating sites 1841.8282632921487
+sample sizes [44 12]
+Segregating sites 1869.0263436242453
+sample sizes [44 14]
+Segregating sites 1895.546078778582
+sample sizes [44 16]
+Segregating sites 1921.4274100513353
+sample sizes [44 18]
+Segregating sites 1946.7067827908152
+sample sizes [44 20]
+Segregating sites 1971.417305304185
+sample sizes [44 22]
+Segregating sites 1994.588907764166
+sample sizes [44 24]
+Segregating sites 2018.248501115746
+sample sizes [44 26]
+Segregating sites 2037.3368026496291
+sample sizes [44 28]
+Segregating sites 2044.880033370429
+sample sizes [44 30]
+Segregating sites 1981.2883064516152
+sample sizes [44 32]
+Segregating sites 1642.0
